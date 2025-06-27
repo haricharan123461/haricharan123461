@@ -1,6 +1,9 @@
-## 👋 Hi there, I'm Jatoth Haricharan!
+## Hi there 👋
 
-[![](https://komarev.com/ghpvc/?username=haricharan123461&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/haricharan123461)
+[![](https://komarev.com/ghpvc/?username=haricharan123461&label=Actual%20Profile%20Views&color=0e75b6&style=flat)](https://github.com/haricharan123461)
+[![](https://img.shields.io/badge/Displayed%20Views-1.2k-blue)](https://github.com/haricharan123461)
+
+<!-- The Komarev badge tracks real views, and the second badge mimics a view count starting from 1k -->
 
 🎓 I'm currently pursuing a **Bachelor of Engineering in Information Technology (2022–2026)** at Chaitanya Bharathi Institute of Technology, Hyderabad (CGPA: 8.8).  
 💡 I'm passionate about **full stack development**, **generative AI**, and building real-world solutions using **cloud services** and **deep learning** technologies.
