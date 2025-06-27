@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 [![](https://komarev.com/ghpvc/?username=haricharan123461&label=Actual%20Profile%20Views&color=0e75b6&style=flat)](https://github.com/haricharan123461)
-[![](https://img.shields.io/badge/Displayed%20Views-1.2k-blue)](https://github.com/haricharan123461)
 
 <!-- The Komarev badge tracks real views, and the second badge mimics a view count starting from 1k -->
 
